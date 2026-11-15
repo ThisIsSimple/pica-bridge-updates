@@ -1,11 +1,11 @@
 {
-  "version": "0.4.1",
-  "notes": "Pica Bridge 0.4.1",
-  "pub_date": "2026-11-15T13:03:33.348Z",
+  "version": "0.4.2",
+  "notes": "Pica Bridge 0.4.2",
+  "pub_date": "2026-11-15T13:49:03.880Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOUI2Z1Q1cldhVXNtam9LVDhrSVkwN003RlIxMEdVR1Zqc05YSzFMZ2NXME9lZHoxQzd5OXVZMVNncE81TGQrU2VRSDd4c3N4eEpOWFNBQjlsNTk3TWVPbTJnWGE5RlFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzQ3ODEyCWZpbGU6UGljYSBCcmlkZ2VfMC40LjFfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNC4xCjB3c05JVU9ta1NOdm1qMnpuK0YycjVocmFsVlgyRnVTaVh1Q1dGdzAwaCsrR3pFdm9mUlQ2SHVMdTM1U0hjWDNmWWx6bkxQLytwbzdTaFI1V29XS0FRPT0K",
-      "url": "https://raw.githubusercontent.com/ThisIsSimple/pica-bridge-updates/main/releases/0.4.1/Pica%20Bridge_0.4.1_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOUI2Z1Q1cldhVXZVOG1GT0ZUMzc1K0k0WDlKVzZGU1RncjRLVkRHaFhiSlMwZnp6TC8vNjI4N1ZvTHJneEd4bGlmT3gwYTgzTy82SlJrYU8zUmxwbTNGQXpnSDhTenc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0NzUwNTQzCWZpbGU6UGljYSBCcmlkZ2VfMC40LjJfeDY0LXNldHVwLmV4ZQl2ZXJzaW9uOjAuNC4yCjJhRmxMYUN5NFlSMXE1SFVqMThibTRVeWlNYmp6Ri9iNE5CNjNMWSt6djVnY29DM211SEFnYzlFMVBSN211ZVQvOGNoVTBUcHFSR3hTU2xpbDNuQkJRPT0K",
+      "url": "https://raw.githubusercontent.com/ThisIsSimple/pica-bridge-updates/main/releases/0.4.2/Pica%20Bridge_0.4.2_x64-setup.exe"
     }
   }
 }
